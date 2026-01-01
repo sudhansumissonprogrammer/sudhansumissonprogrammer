@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Sudhansu, a 3rd year CSE student who really really really! loves building cool stuff (sole reason why I started coding!) and figuring out how things work.<br>currently exploring devlopment <br>
+👋 I’m Sudhansu, a 3rd year CSE student who really really really! loves building cool stuff (sole reason why I started coding!) and figuring out how things work.<br>currently exploring development <br>
 
 
 ## 🌐 Socials:
